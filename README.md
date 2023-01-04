@@ -1,7 +1,6 @@
 # Aritificial-Intelligence
 1. Minmax Algorithm Notes ([Here](https://github.com/hamza-140/Aritificial-Intelligence/blob/8eae30c914e49eb553849e03d6291f0c4e86dccf/Notes/MinMax%20Artificial%20Intelligence%20Notes.pdf))
-
-2.Alpha-Beta Pruning Notes ([Here](https://github.com/hamza-140/Aritificial-Intelligence/blob/5e59f8adaf2211df603f3edd7de923d7436466ea/Notes/Alpha-Beta%20Pruning%20Artificial%20Intelligence%20Notes.pdf))
+2. Alpha-Beta Pruning Notes ([Here](https://github.com/hamza-140/Aritificial-Intelligence/blob/5e59f8adaf2211df603f3edd7de923d7436466ea/Notes/Alpha-Beta%20Pruning%20Artificial%20Intelligence%20Notes.pdf))
 <h1 align="center">Hi 👋, I'm SYED ALI HAMZA SHAH</h1>
 <h3 align="center">Technophile</h3>
 
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development, Web Development etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hamza-140/](https://github.com/hamza-140/)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/hamza-140/)
 
 - 📫 How to reach me **sahamzashah19@gmail.com**
 
