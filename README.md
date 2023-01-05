@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/hamza-140/)
 
-- 📫 How to reach me <a href="mailto:sahamzashah19@gmail.com">Email Me</a>
+- 📫 How to reach me <a href="mailto:sahamzashah19@gmail.com" target="_blank">Email Me</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
